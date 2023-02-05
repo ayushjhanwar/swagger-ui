@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/Rogue3244/swagger-payload/main/swagger.yaml",
+    "url": "https://github.com/ayushjhanwar/swagger-ui/blob/main/swagger.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/Rogue3244/swagger-payload/main/swagger.yaml",
+            "url": "https://github.com/ayushjhanwar/swagger-ui/blob/main/swagger.yaml",
             "name": "REFLECTED XSS BY AYUSH"
         }
     ]
